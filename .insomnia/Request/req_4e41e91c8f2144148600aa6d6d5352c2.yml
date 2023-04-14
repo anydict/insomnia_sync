@@ -1,0 +1,26 @@
+_id: req_4e41e91c8f2144148600aa6d6d5352c2
+type: Request
+parentId: wrk_967380e3efe74fa0998ca73d39eb711b
+modified: 1681508331353
+created: 1680737191600
+url: http://{{address}}:{{port}}/ari/channels
+name: ari/channels
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: asterisk
+  password: asterisk
+metaSortKey: -1680737191600
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
